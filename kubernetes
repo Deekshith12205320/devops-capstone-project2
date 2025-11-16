@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: account-service
-        image: gollachinna/account-service:1.0
+        image: 409g856c/account-service:1.0
         ports:
         - containerPort: 8080
 
