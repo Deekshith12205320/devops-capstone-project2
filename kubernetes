@@ -17,3 +17,4 @@ spec:
         image: gollachinna/account-service:1.0
         ports:
         - containerPort: 8080
+
